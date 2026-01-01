@@ -1,0 +1,38 @@
+═══════════════════════════════════════════════════════════
+🚀 FASTEST WAY TO GET HTTPS LINK (2 MINUTES)
+═══════════════════════════════════════════════════════════
+
+OPTION 1: NETLIFY DROP (EASIEST - NO ACCOUNT NEEDED)
+─────────────────────────────────────────────────────
+1. Open: https://app.netlify.com/drop
+2. Drag the entire "portfolio-basic" folder into the browser
+3. Wait 10 seconds
+4. GET YOUR HTTPS LINK! ✨
+5. Example: https://amazing-portfolio-123.netlify.app
+
+That's it! No signup needed for basic deployment.
+
+
+OPTION 2: GITHUB PAGES (FREE FOREVER)
+─────────────────────────────────────────────────────
+Your files are already prepared with git!
+
+Next steps:
+1. Create account at: https://github.com
+2. Create new repository (name it "portfolio")
+3. Run these commands:
+
+   cd /Users/yashbharadwaj/portfolio-basic
+   git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
+   git branch -M main
+   git push -u origin main
+
+4. Go to repository → Settings → Pages
+5. Select "main" branch, save
+6. Your link: https://YOUR_USERNAME.github.io/portfolio
+
+
+═══════════════════════════════════════════════════════════
+RECOMMENDED: Use Netlify Drop - it's the fastest!
+═══════════════════════════════════════════════════════════
+
