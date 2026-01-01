@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakshya Bhardwaj - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Lakshya Bhardwaj</div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="home">
+        <div class="container">
+            <h1>Hi, I'm Lakshya Bhardwaj</h1>
+            <p>BTech Computer Science Student</p>
+            <p>Full-Stack Developer</p>
+            <button class="btn" onclick="scrollToSection('projects')">View Projects</button>
+            <button class="btn" onclick="scrollToSection('contact')">Contact Me</button>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>I'm a Computer Science student at GLA University, Mathura. I love coding and building web applications. I have solved 200+ problems on LeetCode and completed several projects.</p>
+            <div class="stats">
+                <div class="stat-box">
+                    <h3>200+</h3>
+                    <p>LeetCode Problems</p>
+                </div>
+                <div class="stat-box">
+                    <h3>2</h3>
+                    <p>Major Projects</p>
+                </div>
+                <div class="stat-box">
+                    <h3>1</h3>
+                    <p>Internship</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="section bg-light">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="education-item">
+                <h3>Bachelor of Technology in Computer Science</h3>
+                <p><strong>GLA University, Mathura</strong></p>
+                <p>CGPA: 7.0 | August 2022 - July 2026</p>
+            </div>
+            <div class="education-item">
+                <h3>Intermediate</h3>
+                <p><strong>Milton Public School Avadhpuri, Agra</strong></p>
+                <p>CGPA: 7.5 | August 2020 - July 2022</p>
+            </div>
+            <div class="education-item">
+                <h3>Matriculation</h3>
+                <p><strong>St Francis Convent School Sikandra, Agra</strong></p>
+                <p>CGPA: 7.5 | June 2006 - July 2020</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Frontend</h3>
+                    <div class="skill-tags">
+                        <span class="tag">HTML</span>
+                        <span class="tag">CSS</span>
+                        <span class="tag">JavaScript</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Backend</h3>
+                    <div class="skill-tags">
+                        <span class="tag">C</span>
+                        <span class="tag">Java</span>
+                        <span class="tag">Python</span>
+                        <span class="tag">C++</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Database</h3>
+                    <div class="skill-tags">
+                        <span class="tag">SQL</span>
+                        <span class="tag">MySQL</span>
+                        <span class="tag">Power BI</span>
+                        <span class="tag">Excel</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Tools</h3>
+                    <div class="skill-tags">
+                        <span class="tag">Git</span>
+                        <span class="tag">GitHub</span>
+                        <span class="tag">Linux</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section bg-light">
+        <div class="container">
+            <h2>Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>Skillify</h3>
+                    <p>AI-powered learning assistant providing personalized skill recommendations based on user performance.</p>
+                    <p class="tech"><strong>Tech:</strong> HTML, CSS, JavaScript, Python, Flask, Node.js, MongoDB</p>
+                    <p class="date">June 2024 - August 2024</p>
+                </div>
+                <div class="project-card">
+                    <h3>DataWhiz</h3>
+                    <p>Data analytics solution with .NET backend and Power BI dashboards for visualizing sales trends and KPIs.</p>
+                    <p class="tech"><strong>Tech:</strong> .NET, MySQL, Power BI, SQL</p>
+                    <p class="date">September 2024 - December 2024</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Internships Section -->
+    <section id="internships" class="section">
+        <div class="container">
+            <h2>Internships</h2>
+            <div class="internship-card">
+                <h3>Java Learner | Coding Blocks</h3>
+                <p class="date">Jun-Aug 2024</p>
+                <p>Learned Java OOP principles, Data Structures and Algorithms, and development tools like Eclipse, IntelliJ IDEA, Git, and Maven.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section id="achievements" class="section bg-light">
+        <div class="container">
+            <h2>Achievements</h2>
+            <div class="achievements-list">
+                <div class="achievement-item">✓ Solved 200+ problems on LeetCode</div>
+                <div class="achievement-item">✓ Smart India Hackathon 2023 - Blockchain e-voting prototype</div>
+                <div class="achievement-item">✓ NPTEL Certificate of Excellence</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <div class="contact-info">
+                <p><strong>Email:</strong> <a href="mailto:lakshyabhardwaj0070@gmail.com">lakshyabhardwaj0070@gmail.com</a></p>
+                <p><strong>Phone:</strong> <a href="tel:7599100346">7599100346</a></p>
+                <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lakshya-bhardwaj-0b3ba9247/" target="_blank">Connect with me</a></p>
+                <p><strong>GitHub:</strong> <a href="https://github.com/yashbhardwaj759" target="_blank">View my code</a></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Lakshya Bhardwaj. All rights reserved.</p>
+    </footer>
+
+    <!-- Chat Box -->
+    <div class="chat-container" id="chatContainer">
+        <div class="chat-header" onclick="toggleChat()">
+            <h4>Chat with me</h4>
+            <span id="chatToggle">−</span>
+        </div>
+        <div class="chat-messages" id="chatMessages">
+            <div class="chat-message bot">
+                <p>Hi! I'm Lakshya. How can I help you?</p>
+            </div>
+        </div>
+        <div class="chat-input-container">
+            <input type="text" id="chatInput" placeholder="Type a message..." onkeypress="handleChatKeyPress(event)">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <div class="chat-button" id="chatButton" onclick="toggleChat()">
+        💬
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
