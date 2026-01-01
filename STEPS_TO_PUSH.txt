@@ -1,0 +1,43 @@
+═══════════════════════════════════════════════════════════
+🚀 PUSH TO GITHUB - FOLLOW THESE STEPS
+═══════════════════════════════════════════════════════════
+
+STEP 1: Create Repository on GitHub
+─────────────────────────────────────
+1. Open: https://github.com/new
+2. Repository name: portfolio
+3. Description: (optional) My Portfolio Website
+4. Make it: PUBLIC ✅
+5. IMPORTANT: DO NOT check any boxes (no README, no .gitignore, no license)
+6. Click "Create repository"
+
+STEP 2: Push Your Code
+─────────────────────────────────────
+After creating the repo, run this command:
+
+   cd /Users/yashbharadwaj/portfolio-basic
+   git push -u origin main
+
+You'll be asked for:
+- Username: yashbhardwaj759
+- Password: Use a Personal Access Token (not your GitHub password)
+
+To create a token:
+1. Go to: https://github.com/settings/tokens
+2. Click "Generate new token" → "Generate new token (classic)"
+3. Name it: portfolio-push
+4. Select scope: repo (check the box)
+5. Click "Generate token"
+6. Copy the token and use it as password when pushing
+
+STEP 3: Enable GitHub Pages (Get HTTPS Link)
+─────────────────────────────────────
+1. Go to: https://github.com/yashbhardwaj759/portfolio/settings/pages
+2. Under "Source": Select "main" branch
+3. Folder: / (root)
+4. Click "Save"
+5. Wait 1-2 minutes
+6. Your site: https://yashbhardwaj759.github.io/portfolio
+
+═══════════════════════════════════════════════════════════
+

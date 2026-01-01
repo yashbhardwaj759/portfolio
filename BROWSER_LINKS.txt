@@ -1,0 +1,39 @@
+🌐 YOUR PORTFOLIO BROWSER LINKS
+═══════════════════════════════════════════════════════════
+
+LOCAL FILE (Works Now):
+───────────────────────────────────────────────────────────
+file:///Users/yashbharadwaj/portfolio-basic/index.html
+
+Or just open: index.html from the portfolio-basic folder
+
+
+GITHUB PAGES LINK (After enabling):
+───────────────────────────────────────────────────────────
+https://yashbhardwaj759.github.io/portfolio
+
+⚠️ This link will work after you enable GitHub Pages!
+
+
+TO ENABLE GITHUB PAGES (Get HTTPS Link):
+───────────────────────────────────────────────────────────
+1. Go to: https://github.com/yashbhardwaj759/portfolio/settings/pages
+
+2. Under "Source":
+   - Branch: Select "portfolio" 
+   - Folder: Select "/ (root)"
+
+3. Click "Save"
+
+4. Wait 1-2 minutes
+
+5. Your site will be live at:
+   https://yashbhardwaj759.github.io/portfolio
+
+
+GITHUB REPOSITORY:
+───────────────────────────────────────────────────────────
+https://github.com/yashbhardwaj759/portfolio
+
+═══════════════════════════════════════════════════════════
+

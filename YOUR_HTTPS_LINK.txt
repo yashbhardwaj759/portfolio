@@ -1,0 +1,35 @@
+═══════════════════════════════════════════════════════════
+🌐 YOUR HTTPS LINK (After Enabling GitHub Pages)
+═══════════════════════════════════════════════════════════
+
+YOUR PORTFOLIO HTTPS LINK:
+───────────────────────────────────────────────────────────
+https://yashbhardwaj759.github.io/portfolio
+
+⚠️ This link will work after enabling GitHub Pages (see below)
+
+
+TO ENABLE (Takes 30 seconds):
+───────────────────────────────────────────────────────────
+1. Click this link: https://github.com/yashbhardwaj759/portfolio/settings/pages
+
+2. Scroll down to "Source" section
+
+3. Select:
+   - Branch: portfolio
+   - Folder: / (root)
+
+4. Click "Save" button
+
+5. Wait 1-2 minutes
+
+6. Your link will be live: https://yashbhardwaj759.github.io/portfolio
+
+7. Copy and paste in Juspay Google Form!
+
+
+═══════════════════════════════════════════════════════════
+✅ Once enabled, use this link:
+   https://yashbhardwaj759.github.io/portfolio
+═══════════════════════════════════════════════════════════
+

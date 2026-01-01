@@ -1,0 +1,41 @@
+✅ YOUR PORTFOLIO IS READY!
+═══════════════════════════════════════════════════════════
+
+YOUR HTTPS LINK:
+───────────────────────────────────────────────────────────
+https://yashbhardwaj759.github.io/portfolio
+
+⚠️ Enable GitHub Pages to make it live (see steps below)
+
+
+ENABLE GITHUB PAGES (30 seconds):
+───────────────────────────────────────────────────────────
+I've opened the settings page for you. If not open, go to:
+https://github.com/yashbhardwaj759/portfolio/settings/pages
+
+STEPS:
+1. Scroll to "Build and deployment" section
+2. Under "Source":
+   - Branch: Select "main" (or "portfolio")
+   - Folder: Select "/ (root)"
+3. Click "Save" button
+4. Wait 1-2 minutes
+5. Your site will be live!
+
+
+WHAT I'VE DONE:
+───────────────────────────────────────────────────────────
+✅ Pushed code to main branch
+✅ Created GitHub Actions workflow
+✅ All files are ready
+✅ Just need to enable Pages in settings
+
+
+YOUR LINK (After enabling):
+───────────────────────────────────────────────────────────
+https://yashbhardwaj759.github.io/portfolio
+
+Copy this link and paste in Juspay Google Form!
+
+═══════════════════════════════════════════════════════════
+

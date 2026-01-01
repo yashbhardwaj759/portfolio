@@ -1,0 +1,37 @@
+🚀 GET HTTPS LINK FOR JUSPAY FORM - 2 OPTIONS
+═══════════════════════════════════════════════════════════
+
+OPTION 1: NETLIFY DROP (INSTANT - 2 MINUTES) ⚡ RECOMMENDED
+───────────────────────────────────────────────────────────
+1. Go to: https://app.netlify.com/drop
+2. Drag the "portfolio-basic" folder into the browser
+3. Wait 10 seconds
+4. GET INSTANT HTTPS LINK! ✨
+5. Copy the link (e.g., https://amazing-portfolio-123.netlify.app)
+6. Paste in Juspay Google Form
+
+✅ This works immediately - no waiting!
+
+
+OPTION 2: GITHUB PAGES (FREE FOREVER)
+───────────────────────────────────────────────────────────
+1. Go to: https://github.com/yashbhardwaj759/portfolio/settings/pages
+
+2. Under "Source":
+   - Branch: Select "portfolio"
+   - Folder: Select "/ (root)"
+
+3. Click "Save"
+
+4. Wait 1-2 minutes for GitHub to build
+
+5. Your HTTPS link will be:
+   https://yashbhardwaj759.github.io/portfolio
+
+6. Copy and paste in Juspay Google Form
+
+
+═══════════════════════════════════════════════════════════
+💡 RECOMMENDED: Use Netlify Drop for instant HTTPS link!
+═══════════════════════════════════════════════════════════
+
